@@ -1,16 +1,23 @@
-### Hi there 👋
+# Victor Ramos
 
-<!--
-**VictorRamosLima/VictorRamosLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Enginner at [Creditas](https://www.creditas.com/)
 
-Here are some ideas to get you started:
+[![Linkedin: VictorRamos](https://img.shields.io/badge/-VictorRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-ramos-de-lima-b7235616b/)](https://www.linkedin.com/in/victor-ramos-de-lima-b7235616b/)
+[![GitHub Victor](https://img.shields.io/github/followers/VictorRamosLima?label=follow&style=social)](https://img.shields.io/github/followers/VictorRamosLima?label=follow&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical knowledges
+
+```ruby
+class VictorRamos
+  attr_reader :technologies
+
+  def initialize
+    @technologies = {
+      backend: ['Kotlin', 'Spring Boot', 'JUnit', 'Ruby', 'Ruby on Rails', 'RSpec', 'Java'],
+      frontend: ['HTML', 'CSS', 'Javascript', 'ReactJS'],
+      databases: ['PostgreSQL', 'MySQL'],
+      devops: ['Docker', 'AWS', 'Terraform', 'Kafka']
+    }
+  end
+end
+```
