@@ -17,7 +17,7 @@ class VictorRamos
       frontend: ['HTML', 'CSS', 'Javascript', 'ReactJS'],
       databases: ['PostgreSQL', 'MySQL'],
       devops: ['Docker', 'AWS', 'Terraform', 'Kafka']
-    }
+    }.freeze
   end
 end
 ```
