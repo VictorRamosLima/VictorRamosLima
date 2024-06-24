@@ -1,6 +1,6 @@
 # Victor Ramos
 
-Software Enginner at [Creditas](https://www.creditas.com/)
+Software Enginner at [Itaú](https://www.itau.com.br)
 
 [![Linkedin: VictorRamos](https://img.shields.io/badge/-VictorRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-ramos-de-lima-b7235616b/)](https://www.linkedin.com/in/victor-ramos-de-lima-b7235616b/)
 [![GitHub Victor](https://img.shields.io/github/followers/VictorRamosLima?label=follow&style=social)](https://img.shields.io/github/followers/VictorRamosLima?label=follow&style=social)
