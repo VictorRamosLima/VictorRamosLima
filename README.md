@@ -13,10 +13,12 @@ class VictorRamos
 
   def initialize
     @technologies = {
-      backend: ['Kotlin', 'Spring Boot', 'JUnit', 'Ruby', 'Ruby on Rails', 'RSpec', 'Java'],
-      frontend: ['HTML', 'CSS', 'Javascript', 'ReactJS'],
-      databases: ['PostgreSQL', 'MySQL'],
-      devops: ['Docker', 'AWS', 'Terraform', 'Kafka']
+      backend: ['Kotlin', 'Java', 'Spring Boot', 'Ruby', 'Ruby on Rails', 'Python'],
+      frontend: ['HTML', 'CSS', 'TailwindCSS', 'Javascript', 'Typescript', 'ReactJS'],
+      databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'DocumentDB', 'DynamoDB'],
+      devops: ['Docker', 'Podman', 'Kubernetes', 'Terraform', 'AWS'],
+      messaging: ['Kafka', 'RabbitMQ', 'SQS', 'SNS', 'EventBridge'],
+      testing: ['JUnit', 'Kotest', 'RSpec', 'Cucumber', 'Capybara', 'Cypress']
     }.freeze
   end
 end
